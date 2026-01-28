@@ -1,0 +1,7 @@
+# Core scraping and automation libraries
+agentql
+playwright
+crawl4ai
+
+# Utilities
+python-dotenv
