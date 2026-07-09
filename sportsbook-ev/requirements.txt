@@ -1,0 +1,12 @@
+# Model + pipeline
+pandas
+
+# Tests
+pytest
+
+# Live scraping / crawling (only needed to refresh Odds/*.csv yourself)
+agentql
+playwright
+crawl4ai
+nodriver
+python-dotenv
